@@ -1,0 +1,379 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="Jenkins.Application.Settings">
+        <option name="serverUrl" value="http://35.187.47.197:8080" />
+      </component>
+      <component name="Jenkins.Settings">
+        <option name="username" value="admin" />
+        <option name="jenkinsVersion" value="VERSION_2" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>Assignment issuesJava</id>
+              </State>
+              <State>
+                <id>Assignment issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJava</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Class metricsJava</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Clojure</id>
+              </State>
+              <State>
+                <id>Cloning issuesJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Compiler issuesJava</id>
+              </State>
+              <State>
+                <id>Concurrency annotation issuesJava</id>
+              </State>
+              <State>
+                <id>Control flow issuesJava</id>
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Data flow issuesJava</id>
+              </State>
+              <State>
+                <id>Data flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>Dependency issuesJava</id>
+              </State>
+              <State>
+                <id>ECMAScript 6 migration aidsJavaScript</id>
+              </State>
+              <State>
+                <id>Encapsulation issuesJava</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>Error handlingJavaScript</id>
+              </State>
+              <State>
+                <id>Finalization issuesJava</id>
+              </State>
+              <State>
+                <id>Flow type checkerJavaScript</id>
+              </State>
+              <State>
+                <id>GPath inspectionsGroovy</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>GeneralJava</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>ImportsJava</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>Internationalization issuesJava</id>
+              </State>
+              <State>
+                <id>J2ME issuesJava</id>
+              </State>
+              <State>
+                <id>JUnit issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 9Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level issuesJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavaBeans issuesJava</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript function metricsJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript validity issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Language Injection</id>
+              </State>
+              <State>
+                <id>Logging issuesJava</id>
+              </State>
+              <State>
+                <id>Memory issuesJava</id>
+              </State>
+              <State>
+                <id>Method metricsJava</id>
+              </State>
+              <State>
+                <id>Method signatureScala</id>
+              </State>
+              <State>
+                <id>Modularization issuesJava</id>
+              </State>
+              <State>
+                <id>Naming ConventionsGroovy</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>Naming conventionsJavaScript</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>Packaging issuesJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Portability issuesJava</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsGroovy</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsGroovy</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>Probable bugsJavaScript</id>
+              </State>
+              <State>
+                <id>Properties Files</id>
+              </State>
+              <State>
+                <id>Properties FilesJava</id>
+              </State>
+              <State>
+                <id>Reflective access issuesJava</id>
+              </State>
+              <State>
+                <id>Resource management issuesJava</id>
+              </State>
+              <State>
+                <id>Scala</id>
+              </State>
+              <State>
+                <id>Security issuesJava</id>
+              </State>
+              <State>
+                <id>Serialization issuesJava</id>
+              </State>
+              <State>
+                <id>StyleGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+              <State>
+                <id>Verbose or redundant code constructsJava</id>
+              </State>
+              <State>
+                <id>Visibility issuesJava</id>
+              </State>
+              <State>
+                <id>toString() issuesJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/workspace/csv-differ" value="1479221771573" />
+            <entry key="$USER_HOME$/workspace/flow-reporter" value="1477484053904" />
+            <entry key="$USER_HOME$/workspace/meter-account-service" value="1476435167213" />
+            <entry key="$USER_HOME$/workspace/payment-gateway-service" value="1472552865130" />
+            <entry key="$USER_HOME$/workspace/payment-ppmip-service" value="1475569871533" />
+            <entry key="$USER_HOME$/workspace/payments-consumer" value="1474273076130" />
+            <entry key="$USER_HOME$/workspace/payments-lambda" value="1477470576041" />
+            <entry key="$USER_HOME$/workspace/payments-payg-service" value="1484306587461" />
+            <entry key="$USER_HOME$/workspace/public-api-paym" value="1472827215933" />
+            <entry key="$USER_HOME$/workspace/public-api-payment" value="1472552848620" />
+            <entry key="$USER_HOME$/workspace/rest-driver-scala" value="1484755120101" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
