@@ -10,6 +10,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="consumption-charge-schema-test" type="PLAIN_TEXT" />
       <mapping pattern="dockerrun" type="PLAIN_TEXT" />
+      <mapping pattern="snapshot-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
