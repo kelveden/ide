@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="ds-backup-Jenkinsfile" type="Groovy" />
       <mapping pattern="docker-deploy" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
