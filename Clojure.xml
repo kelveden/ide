@@ -4,6 +4,8 @@
     <option name="separateREPLItems" value="true" />
     <option name="editorTabStyle" value="1" />
     <option name="loadFormsInReplNs" value="true" />
+    <option name="foldStacktraces" value="false" />
+    <option name="foldNonProjectLines" value="false" />
     <option name="structuralStyle" value="2" />
     <option name="confirmReplExit" value="false" />
   </component>
