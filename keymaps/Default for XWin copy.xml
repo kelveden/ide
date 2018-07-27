@@ -170,6 +170,10 @@
   <action id="ReplaceInPath" />
   <action id="RerunTests" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SendEOF" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
