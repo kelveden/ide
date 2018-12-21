@@ -7,6 +7,7 @@
       <mapping pattern="dockerrun" type="PLAIN_TEXT" />
       <mapping pattern="creds" type="PLAIN_TEXT" />
       <mapping pattern="docker-deploy" type="PLAIN_TEXT" />
+      <mapping pattern="gopass.clj" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="consumption-charge-schema-test" type="PLAIN_TEXT" />
       <mapping pattern="Charge" type="PLAIN_TEXT" />
