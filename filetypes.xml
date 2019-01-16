@@ -13,6 +13,7 @@
       <mapping pattern="Charge" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
+      <mapping pattern="reencrypt" type="PLAIN_TEXT" />
       <mapping pattern="snapshot-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
