@@ -1,3 +1,6 @@
 <application>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="18" />
+  </component>
+  <component name="LiveEditOptions" nodeUpdateOnChanges="true" useJBChromeExtension="true" />
 </application>
