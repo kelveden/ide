@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Cursive Stubs Generation" shouldLog="false" />
+    <notification groupId="Cursive Stubs Generation" displayType="NONE" shouldLog="false" />
   </component>
 </application>
