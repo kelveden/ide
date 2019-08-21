@@ -3,20 +3,20 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="encrypt-codebuild-secret" type="PLAIN_TEXT" />
-      <mapping pattern="creds" type="PLAIN_TEXT" />
-      <mapping pattern="reencrypt" type="PLAIN_TEXT" />
-      <mapping pattern="consumption-charge-schema-test" type="PLAIN_TEXT" />
-      <mapping pattern="dockerrun" type="PLAIN_TEXT" />
-      <mapping pattern="decrypt-kms" type="PLAIN_TEXT" />
-      <mapping pattern="Charge" type="PLAIN_TEXT" />
-      <mapping pattern="gopass.clj" type="PLAIN_TEXT" />
-      <mapping pattern="snapshot-Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
       <mapping pattern="docker-deploy" type="PLAIN_TEXT" />
-      <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping pattern="reencrypt" type="PLAIN_TEXT" />
+      <mapping pattern="encrypt-codebuild-secret" type="PLAIN_TEXT" />
+      <mapping pattern="Charge" type="PLAIN_TEXT" />
+      <mapping pattern="creds" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
+      <mapping pattern="gopass.clj" type="PLAIN_TEXT" />
+      <mapping pattern="consumption-charge-schema-test" type="PLAIN_TEXT" />
+      <mapping pattern="snapshot-Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="decrypt-kms" type="PLAIN_TEXT" />
+      <mapping pattern="dockerrun" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
