@@ -6,9 +6,9 @@
       <mapping pattern="docker-deploy" type="PLAIN_TEXT" />
       <mapping pattern="reencrypt" type="PLAIN_TEXT" />
       <mapping pattern="encrypt-codebuild-secret" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
       <mapping pattern="Charge" type="PLAIN_TEXT" />
       <mapping pattern="creds" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
       <mapping pattern="gopass.clj" type="PLAIN_TEXT" />
       <mapping pattern="consumption-charge-schema-test" type="PLAIN_TEXT" />
       <mapping pattern="snapshot-Jenkinsfile" type="PLAIN_TEXT" />
