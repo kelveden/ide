@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="docker-deploy" type="PLAIN_TEXT" />
+      <mapping pattern="oot-db-test" type="PLAIN_TEXT" />
       <mapping pattern="reencrypt" type="PLAIN_TEXT" />
       <mapping pattern="encrypt-codebuild-secret" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-ci" type="PLAIN_TEXT" />
